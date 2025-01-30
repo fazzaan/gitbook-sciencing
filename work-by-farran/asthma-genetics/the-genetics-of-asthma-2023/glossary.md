@@ -1,0 +1,5 @@
+# Glossary
+
+A few terms which are key to the study but may be unfamiliar.
+
+<table><thead><tr><th width="168">Term</th><th>Definition</th></tr></thead><tbody><tr><td>carcinoma</td><td>A cancer that forms in epithelial tissues</td></tr><tr><td>cytochrome c</td><td>soluble electron-carrier protein; released to cytosol from mitochondria in apoptosis</td></tr><tr><td>cytokine</td><td>a broad category of proteins involved in cell signalling, including chemokines, interferons (IFNs), interleukins. Cannot enter a cell’s cytoplasm, thus they act by binding with specific receptors on the outside of the cell. An example in this report is IFNs binding to IFNAR1 and 2 receptors, which activate the JAK-STAT cascade.</td></tr><tr><td>foldchange</td><td>ratio of difference in genetic expression <em>between cell cultures</em></td></tr><tr><td>paracrine</td><td>a substance released from a cell that acts upon other cells in the vicinity</td></tr><tr><td>sumoylation</td><td>SUMO-ylation, small ubiquitin-like modifier</td></tr><tr><td>vehicle</td><td>the control treatment consisting only of delivery solvent</td></tr></tbody></table>
