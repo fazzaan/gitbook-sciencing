@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Communication in Science](README.md)
+* [Scientists Lie](scientists-lie.md)
