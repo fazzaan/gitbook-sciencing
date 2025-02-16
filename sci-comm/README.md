@@ -12,7 +12,7 @@ Clear communication requires information to be presented in a way that is unders
 
 
 
-Also it is often beneficial for scientists to obfuscate their explanations so that they can get funding for bullshit projects (see page [scientists-lie.md](scientists-lie.md "mention")).
+Also it is often beneficial for scientists to obfuscate their explanations so that they can get funding for bullshit projects (see page [scientists-can-lie-btw.md](scientists-can-lie-btw.md "mention")).
 
 
 
