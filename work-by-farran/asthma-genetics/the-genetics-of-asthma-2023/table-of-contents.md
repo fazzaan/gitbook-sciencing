@@ -1,123 +1,46 @@
 # Table of Contents
 
-Abstract. 1
-
-List of abbreviations, acronyms & terms. 2
-
-Table of Contents. 4
-
-List of figures and tables. 6
-
-Tables. 6
-
-Figures. 6
-
-Introduction. 7
-
-Asthma background. 7
-
-Current research state. 7
-
-Purpose for this study. 7
-
-Intent & scope. 8
-
-Methods & materials. 9
-
-Preliminary research. 9
-
-Data sourcing. 9
-
-Original experiment conditions. 9
-
-Phase 1 – Data processing & gene selection. 9
-
-Phase 2 – Data analysis. 10
-
-Statistical analysis. 10
-
-Second-order comparison. 10
-
-Phase 3 – Literature research. 10
-
-Results. 11
-
-Phase 1 – Gene selection. 11
-
-Phase 2 – Statistical analysis. 12
-
-Sets A & D – Wilcoxon Matched Pairs test. 12
-
-Sets B & C – Mann–Whitney _U_-test. 12
-
-Combining results. 13
-
-Phase 3 – Literature research. 14
-
-Key findings. 14
-
-_STAT_ genes. 14
-
-STAT2. 15
-
-_OAS_ genes. 15
-
-Macrophages. 15
-
-OAS-RNase pathway. 16
-
-RNaseL independence. 16
-
-Discussion. 17
-
-Phase 2 – Statistical analysis. 17
-
-Phase 3 – Literature research. 17
-
-Differential expression causes. 18
-
-Antiviral defence. 18
-
-Missing SOCS. 18
-
-Targets for therapeutic intervention. 19
-
-STAT targets. 19
-
-OAS targets. 19
-
-Experimental design & limitations. 21
-
-Original experiment. 21
-
-Statistical analysis. 21
-
-Literature research. 21
-
-Conclusions. 22
-
-Summary. 22
-
-Further work. 22
-
-References. 23
-
-Appendices. 26
-
-Appendix 1 – Data files. 26
-
-Appendix 2 – Orthography. 27
-
-Capitalization of genes and proteins. 27
-
-Verb inflection – S/Z. 27
-
-Appendix 3 – Text-based tables. 28
-
-Table 1 – Phase 2 statistical analysis results summary. 28
-
-Table 2 – Gene distribution summary from HPA.. 28
-
-Appendix 4 – Software list. 29
-
-Glossary  30
+1. [abstract.md](abstract.md "mention")
+2. List of [abbreviations-acronyms-terms.md](abbreviations-acronyms-terms.md "mention")
+3. [table-of-contents.md](table-of-contents.md "mention")
+4. [list-of-figures-and-tables.md](list-of-figures-and-tables.md "mention")
+5. [introduction.md](introduction.md "mention")
+   1. [#asthma-background](introduction.md#asthma-background "mention")
+   2. [#current-research-state](introduction.md#current-research-state "mention")
+   3. [#purpose-for-this-study](introduction.md#purpose-for-this-study "mention")
+   4. [#intent-and-scope](introduction.md#intent-and-scope "mention")
+6. [methods-and-materials](methods-and-materials/ "mention")
+   1. [#preliminary-research](methods-and-materials/#preliminary-research "mention")
+   2. [#data-sourcing](methods-and-materials/#data-sourcing "mention")
+   3. [#original-experiment-conditions](methods-and-materials/#original-experiment-conditions "mention")
+   4. [phase-1-data-processing-and-gene-selection.md](methods-and-materials/phase-1-data-processing-and-gene-selection.md "mention")
+   5. [phase-2-data-analysis.md](methods-and-materials/phase-2-data-analysis.md "mention")
+      1. [#statistical-analysis](methods-and-materials/phase-2-data-analysis.md#statistical-analysis "mention")
+      2. [#second-order-comparison](methods-and-materials/phase-2-data-analysis.md#second-order-comparison "mention")
+   6. [phase-3-literature-research.md](methods-and-materials/phase-3-literature-research.md "mention")
+7. [results](results/ "mention")
+   1. [phase-1-gene-selection.md](results/phase-1-gene-selection.md "mention")
+   2. [phase-2-statistical-analysis.md](results/phase-2-statistical-analysis.md "mention")
+      1. [#sets-a-and-d-wilcoxon-matched-pairs-test](results/phase-2-statistical-analysis.md#sets-a-and-d-wilcoxon-matched-pairs-test "mention")
+      2. [#sets-b-and-c-mann-whitney-u-test](results/phase-2-statistical-analysis.md#sets-b-and-c-mann-whitney-u-test "mention")
+      3. [#chart\_version\_3](results/phase-2-statistical-analysis.md#chart_version_3 "mention")
+   3. [phase-3-literature-research.md](results/phase-3-literature-research.md "mention")
+      1. [#key-findings](results/phase-3-literature-research.md#key-findings "mention")
+      2. [#stat-genes](results/phase-3-literature-research.md#stat-genes "mention")
+         1. [#stat2](results/phase-3-literature-research.md#stat2 "mention")
+      3. [#oas-genes](results/phase-3-literature-research.md#oas-genes "mention")
+         1. [#macrophages](results/phase-3-literature-research.md#macrophages "mention")
+         2. [#oas-rnase-pathway](results/phase-3-literature-research.md#oas-rnase-pathway "mention")
+         3. [#rnasel-independence](results/phase-3-literature-research.md#rnasel-independence "mention")
+8. [discussion](discussion/ "mention")
+   1. [phase-2-statistical-analysis.md](discussion/phase-2-statistical-analysis.md "mention")
+   2. [phase-3-literature-research.md](discussion/phase-3-literature-research.md "mention")
+   3. [experimental-design-and-limitations.md](discussion/experimental-design-and-limitations.md "mention")
+   4. [conclusions.md](discussion/conclusions.md "mention")
+9. [references.md](references.md "mention")
+10. [appendices](appendices/ "mention")
+    1. [appendix-1-data-files.md](appendices/appendix-1-data-files.md "mention")
+    2. [appendix-2-orthography.md](appendices/appendix-2-orthography.md "mention")
+    3. [appendix-3-text-based-tables.md](appendices/appendix-3-text-based-tables.md "mention")
+    4. [appendix-4-software-list.md](appendices/appendix-4-software-list.md "mention")
+11. [glossary.md](glossary.md "mention")
