@@ -5,11 +5,6 @@
 ## Future projects
 
 * [Future projects — plans & ideas](future-projects/future-projects-plans-and-ideas.md)
-* [Essential oils safety](future-projects/essential-oils-safety.md)
-* [Kangen water (ionized alkaline water)](future-projects/kangen-water-ionized-alkaline-water.md)
-* [Probiotics for health benefits](future-projects/probiotics-for-health-benefits.md)
-* [Obesity rates vs corporate retail vs GDP](future-projects/obesity-rates-vs-corporate-retail-vs-gdp.md)
-* [Blockchain/crypto vs Internet adoption curve](future-projects/blockchain-crypto-vs-internet-adoption-curve.md)
 
 ## Asthma genetics
 
