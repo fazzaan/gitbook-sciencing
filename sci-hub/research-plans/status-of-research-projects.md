@@ -1,6 +1,20 @@
+---
+description: list of research projects from the other pages, and their current status
+---
+
 # Status of research projects
 
-_list of research projects from the other pages, and their current status:_
+## The projects&#x20;
+
+<table data-full-width="true"><thead><tr><th width="261" valign="top">idea</th><th valign="top">why? &#x26; hypotheses</th><th width="110">categories<select multiple><option value="QeW2FIqXmRFR" label="biology" color="blue"></option><option value="gAERefp4Aba6" label="ecosystems" color="blue"></option><option value="aYLuR060uXaK" label="environmental" color="blue"></option><option value="fbwHZM2XdH98" label="physics" color="blue"></option></select></th><th width="88" valign="top">code</th><th width="66" valign="top">status</th></tr></thead><tbody><tr><td valign="top">Combatting desertification</td><td valign="top"></td><td><span data-option="gAERefp4Aba6">ecosystems, </span><span data-option="QeW2FIqXmRFR">biology, </span><span data-option="aYLuR060uXaK">environmental</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Pushing back deserts</td><td valign="top"></td><td><span data-option="aYLuR060uXaK">environmental, </span><span data-option="gAERefp4Aba6">ecosystems, </span><span data-option="QeW2FIqXmRFR">biology</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Meta studies of existing research about any topics here</td><td valign="top"></td><td></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Sound field structure</td><td valign="top"></td><td><span data-option="fbwHZM2XdH98">physics</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Sound fields of real objects and speaker output</td><td valign="top"></td><td><span data-option="fbwHZM2XdH98">physics</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Multi-source sound field effects on local phenomena</td><td valign="top">See how sound fields may encourage &#x26; discourage cellular growth, chemistry, particle accretion, etc</td><td><span data-option="fbwHZM2XdH98">physics</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Applications of sound field effects in tech &#x26; environment</td><td valign="top"><p>ideas include:</p><ul><li>increasing humidity / retaining moisture</li><li></li></ul></td><td><span data-option="QeW2FIqXmRFR">biology, </span><span data-option="fbwHZM2XdH98">physics, </span><span data-option="aYLuR060uXaK">environmental</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">How sound (volume, type, regularity, frequency) plays a role in local ecosystems</td><td valign="top"></td><td><span data-option="fbwHZM2XdH98">physics, </span><span data-option="gAERefp4Aba6">ecosystems, </span><span data-option="aYLuR060uXaK">environmental, </span><span data-option="QeW2FIqXmRFR">biology</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Maximum known temperature limits for plants and stretching the limits</td><td valign="top"><p>Bioengineering plants for heat resilience — which genes are responsible, what are the other limiting factors, what's the highest temp we could engineer, ramifications of release into the wild</p><p>Because: future climates may be harsher</p></td><td><span data-option="QeW2FIqXmRFR">biology, </span><span data-option="gAERefp4Aba6">ecosystems, </span><span data-option="aYLuR060uXaK">environmental</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Maximum water absorption / retention of plants, and stretching the limits</td><td valign="top"><p>Bioengineering plants for water capacity — genes, factors, engineerability, ramifications, etc.</p><p>Because: future climates.</p><p>Plants may also be able to collect &#x26; purify water from distal sources and the air, for humans/animals to tap (see <em>water emission mechanisms</em> research project).</p></td><td><span data-option="QeW2FIqXmRFR">biology, </span><span data-option="aYLuR060uXaK">environmental, </span><span data-option="gAERefp4Aba6">ecosystems</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Water emission mechanisms of plants, maximum rate, controllability</td><td valign="top"><p>Bioengineering plants for water emission.</p><p>Because: plants which emit water easily could be fed water from a distant source and then used for increasing &#x26; maintaining humidity in an arid zone. And: drying plants and wetting plants could be used in tandem for purifying the air &#x26; moisture. </p></td><td><span data-option="QeW2FIqXmRFR">biology, </span><span data-option="gAERefp4Aba6">ecosystems, </span><span data-option="aYLuR060uXaK">environmental</span></td><td valign="top"></td><td valign="top"></td></tr><tr><td valign="top">Gas absorption mechanisms of plants, types of gases &#x26; particulates, controllability. <em>(Consider a<strong>d</strong>sorption too.)</em> </td><td valign="top">Bioengineering plants for purifying the air (and maybe also liquid bodies), with a focus on also benefitting the plant and not just abusing its functionality. Can the plants' own processes also convert the uptaken molecules into something useful for themselves? Can they output the molecules like excretion? Can they secrete it as fuel, or even food? (Many pollutant molecules are made of the same or similar atoms and structures as are in foods, medicines, vitamins.)</td><td><span data-option="QeW2FIqXmRFR">biology, </span><span data-option="gAERefp4Aba6">ecosystems, </span><span data-option="aYLuR060uXaK">environmental</span></td><td valign="top"></td><td valign="top"></td></tr></tbody></table>
+
+
+
+Every research project takes a large amount of planning even before the research starts. Below is a range of phases & statuses that a research project will pass through.
+
+<details>
+
+<summary>project statuses</summary>
 
 * _ideation_&#x20;
 * _planning_&#x20;
@@ -16,8 +30,4 @@ _list of research projects from the other pages, and their current status:_
 * _conclusion_&#x20;
 * _further research required_&#x20;
 
-
-
-## The projects&#x20;
-
-_a table here_&#x20;
+</details>
