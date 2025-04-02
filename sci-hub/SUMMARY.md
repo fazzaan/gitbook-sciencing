@@ -4,8 +4,13 @@
 
 ## Bias
 
-* [Page 1](bias/page-1.md)
+* [Bias exists](bias/bias-exists.md)
 
 ## Security
 
-* [Page 2](security/page-2.md)
+* [Digital lifestyle](security/digital-lifestyle.md)
+
+## Research Plans
+
+* [Status of research projects](research-plans/status-of-research-projects.md)
+* [Interdisciplinary](research-plans/interdisciplinary.md)
