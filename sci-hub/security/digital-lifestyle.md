@@ -18,3 +18,7 @@ Some resources about digital life security
 
 {% embed url="https://en.wikipedia.org/wiki/Defense_in_depth_(computing)" %}
 
+Keeping yourself safe as an activist — and you can use these tips and methods even if you aren't an activist out on the streets! You can be an activist simply in how you use your time. Resistance can occur in any location.
+
+{% embed url="https://activistchecklist.org/" %}
+
