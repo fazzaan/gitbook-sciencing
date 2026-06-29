@@ -1,5 +1,9 @@
 # Science!!!
 
+{% hint style="info" %}
+edit test 1 — testing sync plugin to git**lab**
+{% endhint %}
+
 This is the hub page of the array of science-related sub-sites I'm now building.
 
 These sites are resources to help you learn about how to be a scientist.
