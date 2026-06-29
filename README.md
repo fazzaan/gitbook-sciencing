@@ -1,3 +1,6 @@
+# ARCHIVED
+## WE HAVE MOVED TO GITLAB
+
 # Science!!!
 
 This is the hub page of the array of science-related sub-sites I'm now building.
