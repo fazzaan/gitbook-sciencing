@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 edit test 1 — testing sync plugin to git**lab**
+
+edit test 2 — after checking both github and gitlab plugins
 {% endhint %}
 
 This is the hub page of the array of science-related sub-sites I'm now building.
