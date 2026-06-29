@@ -21,4 +21,4 @@
 * Prach, K. and Walker, L.R. (2011) ‘Four opportunities for studies of ecological succession’, Trends in ecology & evolution (Amsterdam), 26(3), pp. 119–123. \
   doi:10.1016/j.tree.2010.12.007.
 * Smith, D.L. and Johnson, L.C. (2003) ‘Expansion of Juniperus virginiana L. in the Great Plains: Changes in soil organic carbon dynamics’, Global biogeochemical cycles, 17, 1062, \
-  doi:10.1029/2002GB001990, 2.\
+  doi:10.1029/2002GB001990, 2.<br>
