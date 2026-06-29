@@ -1,5 +1,11 @@
 # ARCHIVED
 ## WE HAVE MOVED TO GITLAB
+_Migrated and archived on 2026-06-29_  
+
+[VIEW NEW REPO ON **GITLAB**](https://gitlab.com/fazzaan/gitbook-sciencing)  
+
+[VIEW "SCIENCING" WEBSITE ON **GITBOOK**](https://scnc.gitbook.io/science)  
+
 
 # Science!!!
 
