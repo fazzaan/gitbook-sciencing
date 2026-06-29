@@ -16,3 +16,4 @@ _edit test 2 — edit test 1 synced to github but not gitlab_
 
 _edit test 3 — gitbook's sync plugins seem to sync the latest edits to github, and the previous edit to gitlab. weird._
 
+_edit test 4 — gitbook synced to gitlab after "modifying" the sync plugin's settings — but I didn't actually change anything. let's see if this edit manages to get updated to gitlab or not._
